@@ -27,24 +27,16 @@ Passionate frontend developer skilled in HTML, CSS, JavaScript, React, and Tailw
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-stats.vercel.app/api?username=Madhesh21&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=831843&hide_border=true&show_icons=true" alt="Madhesh21's GitHub stats" /></a>
+<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-stats.vercel.app/api?username=Madhesh21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Madhesh21's GitHub stats" /></a>
 
-<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh21&stroke=facc15&background=831843&ring=6366f1&fire=6366f1&currStreakNum=facc15&currStreakLabel=6366f1&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Madhesh21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh21&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Madhesh21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Madhesh21/freescribe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=freescribe&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=831843&hide_border=true&locale=en" /></a><a href="https://github.com/Madhesh21/gym-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=gym-app&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Madhesh21/freescribe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=freescribe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Madhesh21/gym-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=gym-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Madhesh21/aichatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=aichatbot&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=831843&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/madhesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<div width="100%" align="center"><a href="https://github.com/Madhesh21/aichatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=aichatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
