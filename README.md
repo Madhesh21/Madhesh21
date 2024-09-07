@@ -30,17 +30,21 @@ Passionate frontend developer skilled in HTML, CSS, JavaScript, React, and Tailw
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-stats.vercel.app/api?username=Madhesh21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Madhesh21's GitHub stats" /></a>
+<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-stats.vercel.app/api?username=Madhesh21&show_icons=true&hide=&count_private=true&title_color=000000&text_color=facc15&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Madhesh21's GitHub stats" /></a>
 
-<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh21&stroke=facc15&background=1e3a8a&ring=000000&fire=000000&currStreakNum=facc15&currStreakLabel=000000&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Madhesh21&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Madhesh21"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Madhesh21&bg_color=1e3a8a&color=facc15&line=000000&point=facc15&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Madhesh21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Madhesh21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh21&langs_count=10&title_color=000000&text_color=facc15&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Madhesh21/https://github.com/Madhesh21/freescribe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=https://github.com/Madhesh21/freescribe&title_color=000000&text_color=facc15&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Madhesh21/https://github.com/Madhesh21/gym-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=https://github.com/Madhesh21/gym-app&title_color=000000&text_color=facc15&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Madhesh21/https://github.com/Madhesh21/aichatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhesh21&repo=https://github.com/Madhesh21/aichatbot&title_color=000000&text_color=facc15&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
